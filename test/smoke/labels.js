@@ -44,4 +44,8 @@ describe('My Little Hero', function () {
             expect(text).toEqual(exp.labelStory);
         });
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> ffea389044ffd2754a0915befb62290b2d8cd353
